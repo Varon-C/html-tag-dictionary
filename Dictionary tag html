@@ -1,3 +1,8 @@
+a: used to imput links and stuff.
+
+	attributes: href
+	
+	examples: <a>href="website"</a>
 h1: Header tag, makes the text lare and puts it on a seperate line.
 
 	attributes:none
@@ -11,10 +16,38 @@ h6: Also a Header Tag, but it is smaller than H1, H1 being the biggest, then the
 	
 	example:  <h6>What is food?</h6>
 	
+img: used to put links.
+
+	attributes:src
+	
+	example: <img src="image">
+
+li: List of things that you put underneath your OL code.
+
+	attributes:none
+	
+	example: <li>bananas</li> <li>chickens</li>
+	
+
+
+Ol: Ordered list. Creates lists in order. 1. 2. 3. ...
+
+	attributes: none
+	
+	examples: <ol>food i like</ol> then <li>dogs</li> etc..
+
+
+
 P: a tag that makes your sentences look like a paragraph form or create your words into sentences.
 
 	attributes:none
 	
 	example: <p>I really like to eat bananas because they're tasty</p>
+	
+ul: Unordered list, used to create lists that don't particilarly have any order to them, so they look like bulletin points.
+
+	attributes:none
+	
+	examples: <ul>Games I love<ul> then <li>Dragon ball</li> etc.
 	
 	
