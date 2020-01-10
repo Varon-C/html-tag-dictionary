@@ -1,0 +1,20 @@
+h1: Header tag, makes the text lare and puts it on a seperate line.
+
+	attributes:none
+	
+		example: <h1>NBA</h1>
+		
+
+h6: Also a Header Tag, but it is smaller than H1, H1 being the biggest, then the bigger the number the smaller the tag becomes. being 6 the smallest. Good for subheadings.
+
+	attributes: none
+	
+	example:  <h6>What is food?</h6>
+	
+P: a tag that makes your sentences look like a paragraph form or create your words into sentences.
+
+	attributes:none
+	
+	example: <p>I really like to eat bananas because they're tasty</p>
+	
+	
