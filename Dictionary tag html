@@ -3,6 +3,17 @@ a: used to imput links and stuff.
 	attributes: href
 	
 	examples: <a>href="website"</a>
+
+body: the body contains contents
+	examples: <body> </body>
+	attribute:none
+
+
+DOCTYPE:selects the current version of html
+
+	examples: <!DOCTYPE html>
+	attributes:none
+
 h1: Header tag, makes the text lare and puts it on a seperate line.
 
 	attributes:none
@@ -16,6 +27,17 @@ h6: Also a Header Tag, but it is smaller than H1, H1 being the biggest, then the
 	
 	example:  <h6>What is food?</h6>
 	
+
+head: contains things for your web browser to think about
+	examples: <head> efw </head>
+	attribute: none
+
+
+html: marks the beginning and the end of your HTML code
+	examples: <html> </html>
+	attributes:none
+
+
 img: used to put links.
 
 	attributes:src
