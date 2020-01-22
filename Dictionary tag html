@@ -13,6 +13,10 @@ DOCTYPE:selects the current version of html
 
 	examples: <!DOCTYPE html>
 	attributes:none
+	
+div: basically just creates a box that requires styling
+	attributes: none rn
+	examples: <div>
 
 h1: Header tag, makes the text lare and puts it on a seperate line.
 
@@ -65,6 +69,10 @@ P: a tag that makes your sentences look like a paragraph form or create your wor
 	attributes:none
 	
 	example: <p>I really like to eat bananas because they're tasty</p>
+	
+style: allows you to do the css stuff.
+	attributes:none
+	examples <style>content</style>
 	
 ul: Unordered list, used to create lists that don't particilarly have any order to them, so they look like bulletin points.
 
