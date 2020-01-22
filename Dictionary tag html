@@ -7,6 +7,12 @@ a: used to imput links and stuff.
 body: the body contains contents
 	examples: <body> </body>
 	attribute:none
+	
+br: creates spaces between your content
+	attributes:none
+	examples: eofiejfejif
+		<br>
+		eofefeiofjefoj
 
 
 DOCTYPE:selects the current version of html
